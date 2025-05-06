@@ -1,0 +1,20 @@
+.oddGroup{
+    background-color: #FF8BA0;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.fontSize {
+    font-size: 24px;
+}
+
+
+#two {
+    color: #0F52BA;
+    font-size: 36px;
+}
+
+#fourth {
+   background-color: #90EE90;
+    font-weight: 600;
+
+}
